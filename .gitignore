@@ -1,0 +1,19 @@
+# Dépendances Node & Vercel
+node_modules/
+.vercel/
+.output/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Fichiers système & IDE
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+.idea/
+.vscode/
+*.swp
